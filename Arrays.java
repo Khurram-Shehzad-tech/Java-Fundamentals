@@ -1,5 +1,3 @@
-public class Arrays {
-    public static void main(String[] args) {
         public class Arrays {
             public static void main(String[] args) {
 // in java arrays are used to store multiples data of the same type it is used to store large amount of collection of same type data
@@ -26,6 +24,3 @@ public class Arrays {
             }
         }
 
-
-    }
-}
