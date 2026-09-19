@@ -1,5 +1,5 @@
 import java.util.Arrays;
-public class shallowAnddeepCopy {
+public class shallowCopyConstructor {
     public static void main(String[] args) {
         int[] numbers = {1,2,3,4,5,6,7,8,9,10};
         shallow s1 = new shallow(2,3,numbers);
